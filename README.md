@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuseynCrp
 - 👀 I’m interested in Web3 World
 - 🌱 I’m always learning
-- 🌱 I’m trying to code
+- 🌱 I’m the best
 
 <!---
 HuseynCrp/HuseynCrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
